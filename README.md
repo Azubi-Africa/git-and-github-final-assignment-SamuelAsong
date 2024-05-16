@@ -1,4 +1,4 @@
-# Git-and-GitHub-final-assignment
+g# Git-and-GitHub-final-assignment
 This template repository hosts the final Git & GitHub assignment.
 
 ## Description
@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - Titanic Ticket Price Prediction            |  - The Titanic Case Study analyzes survival patterns among passengers and builds a predictive model for ticket prices based on passenger attributes            | https://github.com/SamuelAsong/Ticket-Price-Prediction/tree/master       |
+| 2 |  - Customer-Gender-Classification-Using-Machine-Learning            |  - This project involves training a machine learning model to predict whether a customer is male or female based on the Dollar Tree dataset.            | https://github.com/SamuelAsong/Customer-Gender-Classification-Using-Machine-Learning       |
+| 3 |  - Restaurant-Bill-Calculator            |  - Writing a python program that calculates the total amount of meal            | https://github.com/SamuelAsong/Restaurant-Bill-Calculator       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
